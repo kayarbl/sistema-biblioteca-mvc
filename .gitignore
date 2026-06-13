@@ -1,0 +1,20 @@
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Variáveis de ambiente / segredos
+.env
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
